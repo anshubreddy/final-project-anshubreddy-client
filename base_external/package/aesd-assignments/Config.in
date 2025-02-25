@@ -2,5 +2,5 @@
 config BR2_PACKAGE_AESD_ASSIGNMENTS
 	bool "aesd-assignments"
 	help
-	  Includes the BME280 sensor app in the kernel image.
+	  Includes the BME280 sensor and Zigbee coordinator apps in the kernel image.
 	  Used to understand buildroot external trees and package builds.
